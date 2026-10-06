@@ -1,0 +1,64 @@
+[
+  {
+    "id": "aaos-shoulder",
+    "organization": "American Academy of Orthopaedic Surgeons (AAOS)",
+    "title": "Shoulder Pain and Common Shoulder Problems",
+    "evidenceType": "Patient education",
+    "url": "https://orthoinfo.aaos.org/en/diseases--conditions/shoulder-pain-and-common-shoulder-problems/",
+    "summary": "Overview of shoulder anatomy, common problem categories, and how clinicians assess shoulder symptoms."
+  },
+  {
+    "id": "aaos-rotator",
+    "organization": "American Academy of Orthopaedic Surgeons (AAOS)",
+    "title": "Management of Rotator Cuff Injuries: Evidence-Based Clinical Practice Guideline",
+    "year": "2023",
+    "evidenceType": "Clinical practice guideline and plain-language summary",
+    "url": "https://orthoinfo.aaos.org/globalassets/pdfs/rotator-cuff-cpg_pls.pdf",
+    "summary": "Evidence-based guidance on management of rotator cuff injuries in adults."
+  },
+  {
+    "id": "aaos-frozen",
+    "organization": "American Academy of Orthopaedic Surgeons (AAOS)",
+    "title": "Frozen Shoulder",
+    "year": "2018",
+    "evidenceType": "Patient education",
+    "url": "https://orthoinfo.aaos.org/globalassets/pdfs/frozen-shoulder.pdf",
+    "summary": "Patient information about frozen shoulder, including symptoms and known risk factors."
+  },
+  {
+    "id": "mayo-shoulder",
+    "organization": "Mayo Clinic",
+    "title": "Shoulder pain: Causes and when to seek care",
+    "year": "2023",
+    "evidenceType": "Clinical patient guidance",
+    "url": "https://www.mayoclinic.org/symptoms/shoulder-pain/basics/causes/sym-20050696",
+    "summary": "Overview of shoulder pain causes and signs that call for urgent or emergency care."
+  },
+  {
+    "id": "nhs-dislocation",
+    "organization": "National Health Service (NHS)",
+    "title": "Dislocated shoulder",
+    "year": "2026-09-16",
+    "evidenceType": "Government health guidance",
+    "url": "https://www.nhs.uk/conditions/dislocated-shoulder/",
+    "summary": "Urgent assessment guidance and general information about shoulder dislocation."
+  },
+  {
+    "id": "nhs-collarbone",
+    "organization": "National Health Service (NHS)",
+    "title": "Broken collarbone",
+    "year": "2017",
+    "evidenceType": "Government health guidance",
+    "url": "https://www.nhs.uk/conditions/broken-collarbone/",
+    "summary": "Signs of a possible broken collarbone and when to seek urgent or emergency help."
+  },
+  {
+    "id": "nhs-shoulder",
+    "organization": "NHS 111 Wales",
+    "title": "Shoulder pain",
+    "year": "2018",
+    "evidenceType": "Government health guidance",
+    "url": "https://111.wales.nhs.uk/Shoulderpain/",
+    "summary": "General shoulder pain information and when to seek further medical advice."
+  }
+]

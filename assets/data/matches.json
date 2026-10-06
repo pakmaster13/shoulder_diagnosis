@@ -1,0 +1,522 @@
+[
+  {
+    "conditionId": "rotator-cuff-tendinopathy",
+    "symptomId": "feel-pain",
+    "weight": 1
+  },
+  {
+    "conditionId": "rotator-cuff-tendinopathy",
+    "symptomId": "feel-weak",
+    "weight": 2
+  },
+  {
+    "conditionId": "rotator-cuff-tendinopathy",
+    "symptomId": "when-raise",
+    "weight": 3
+  },
+  {
+    "conditionId": "rotator-cuff-tendinopathy",
+    "symptomId": "when-overhead",
+    "weight": 3
+  },
+  {
+    "conditionId": "rotator-cuff-tendinopathy",
+    "symptomId": "when-lift",
+    "weight": 2
+  },
+  {
+    "conditionId": "rotator-cuff-tendinopathy",
+    "symptomId": "when-night",
+    "weight": 3
+  },
+  {
+    "conditionId": "rotator-cuff-tendinopathy",
+    "symptomId": "when-lie",
+    "weight": 2
+  },
+  {
+    "conditionId": "rotator-cuff-tendinopathy",
+    "symptomId": "cause-repeat",
+    "weight": 2
+  },
+  {
+    "conditionId": "rotator-cuff-tendinopathy",
+    "symptomId": "onset-gradual",
+    "weight": 1
+  },
+  {
+    "conditionId": "rotator-cuff-tear",
+    "symptomId": "feel-pain",
+    "weight": 1
+  },
+  {
+    "conditionId": "rotator-cuff-tear",
+    "symptomId": "feel-weak",
+    "weight": 3
+  },
+  {
+    "conditionId": "rotator-cuff-tear",
+    "symptomId": "when-raise",
+    "weight": 3
+  },
+  {
+    "conditionId": "rotator-cuff-tear",
+    "symptomId": "when-overhead",
+    "weight": 2
+  },
+  {
+    "conditionId": "rotator-cuff-tear",
+    "symptomId": "when-night",
+    "weight": 2
+  },
+  {
+    "conditionId": "rotator-cuff-tear",
+    "symptomId": "cause-fall",
+    "weight": 3
+  },
+  {
+    "conditionId": "rotator-cuff-tear",
+    "symptomId": "cause-collision",
+    "weight": 2
+  },
+  {
+    "conditionId": "rotator-cuff-tear",
+    "symptomId": "onset-sudden",
+    "weight": 2
+  },
+  {
+    "conditionId": "shoulder-bursitis",
+    "symptomId": "feel-pain",
+    "weight": 1
+  },
+  {
+    "conditionId": "shoulder-bursitis",
+    "symptomId": "when-raise",
+    "weight": 3
+  },
+  {
+    "conditionId": "shoulder-bursitis",
+    "symptomId": "when-overhead",
+    "weight": 3
+  },
+  {
+    "conditionId": "shoulder-bursitis",
+    "symptomId": "when-night",
+    "weight": 2
+  },
+  {
+    "conditionId": "shoulder-bursitis",
+    "symptomId": "when-lie",
+    "weight": 2
+  },
+  {
+    "conditionId": "shoulder-bursitis",
+    "symptomId": "onset-gradual",
+    "weight": 1
+  },
+  {
+    "conditionId": "shoulder-impingement",
+    "symptomId": "feel-pain",
+    "weight": 1
+  },
+  {
+    "conditionId": "shoulder-impingement",
+    "symptomId": "when-raise",
+    "weight": 3
+  },
+  {
+    "conditionId": "shoulder-impingement",
+    "symptomId": "when-overhead",
+    "weight": 3
+  },
+  {
+    "conditionId": "shoulder-impingement",
+    "symptomId": "when-lift",
+    "weight": 2
+  },
+  {
+    "conditionId": "shoulder-impingement",
+    "symptomId": "when-lie",
+    "weight": 2
+  },
+  {
+    "conditionId": "shoulder-impingement",
+    "symptomId": "onset-gradual",
+    "weight": 1
+  },
+  {
+    "conditionId": "shoulder-dislocation",
+    "symptomId": "feel-sharp",
+    "weight": 2
+  },
+  {
+    "conditionId": "shoulder-dislocation",
+    "symptomId": "feel-limited",
+    "weight": 2
+  },
+  {
+    "conditionId": "shoulder-dislocation",
+    "symptomId": "feel-unstable",
+    "weight": 3
+  },
+  {
+    "conditionId": "shoulder-dislocation",
+    "symptomId": "when-move",
+    "weight": 1
+  },
+  {
+    "conditionId": "shoulder-dislocation",
+    "symptomId": "onset-sudden",
+    "weight": 2
+  },
+  {
+    "conditionId": "shoulder-dislocation",
+    "symptomId": "cause-fall",
+    "weight": 3
+  },
+  {
+    "conditionId": "shoulder-dislocation",
+    "symptomId": "cause-collision",
+    "weight": 3
+  },
+  {
+    "conditionId": "shoulder-subluxation",
+    "symptomId": "feel-pain",
+    "weight": 1
+  },
+  {
+    "conditionId": "shoulder-subluxation",
+    "symptomId": "feel-click",
+    "weight": 3
+  },
+  {
+    "conditionId": "shoulder-subluxation",
+    "symptomId": "feel-unstable",
+    "weight": 3
+  },
+  {
+    "conditionId": "shoulder-subluxation",
+    "symptomId": "feel-limited",
+    "weight": 2
+  },
+  {
+    "conditionId": "shoulder-subluxation",
+    "symptomId": "when-rotate",
+    "weight": 2
+  },
+  {
+    "conditionId": "shoulder-subluxation",
+    "symptomId": "onset-sudden",
+    "weight": 2
+  },
+  {
+    "conditionId": "shoulder-subluxation",
+    "symptomId": "cause-sport",
+    "weight": 2
+  },
+  {
+    "conditionId": "shoulder-instability",
+    "symptomId": "feel-click",
+    "weight": 2
+  },
+  {
+    "conditionId": "shoulder-instability",
+    "symptomId": "feel-unstable",
+    "weight": 3
+  },
+  {
+    "conditionId": "shoulder-instability",
+    "symptomId": "when-rotate",
+    "weight": 2
+  },
+  {
+    "conditionId": "shoulder-instability",
+    "symptomId": "when-overhead",
+    "weight": 2
+  },
+  {
+    "conditionId": "shoulder-instability",
+    "symptomId": "cause-sport",
+    "weight": 2
+  },
+  {
+    "conditionId": "shoulder-instability",
+    "symptomId": "cause-collision",
+    "weight": 2
+  },
+  {
+    "conditionId": "labral-tear",
+    "symptomId": "feel-pain",
+    "weight": 1
+  },
+  {
+    "conditionId": "labral-tear",
+    "symptomId": "feel-click",
+    "weight": 3
+  },
+  {
+    "conditionId": "labral-tear",
+    "symptomId": "feel-unstable",
+    "weight": 3
+  },
+  {
+    "conditionId": "labral-tear",
+    "symptomId": "when-rotate",
+    "weight": 2
+  },
+  {
+    "conditionId": "labral-tear",
+    "symptomId": "when-overhead",
+    "weight": 2
+  },
+  {
+    "conditionId": "labral-tear",
+    "symptomId": "cause-sport",
+    "weight": 2
+  },
+  {
+    "conditionId": "labral-tear",
+    "symptomId": "cause-fall",
+    "weight": 2
+  },
+  {
+    "conditionId": "slap-tear",
+    "symptomId": "loc-front",
+    "weight": 3
+  },
+  {
+    "conditionId": "slap-tear",
+    "symptomId": "feel-pain",
+    "weight": 1
+  },
+  {
+    "conditionId": "slap-tear",
+    "symptomId": "feel-click",
+    "weight": 2
+  },
+  {
+    "conditionId": "slap-tear",
+    "symptomId": "when-overhead",
+    "weight": 3
+  },
+  {
+    "conditionId": "slap-tear",
+    "symptomId": "when-rotate",
+    "weight": 2
+  },
+  {
+    "conditionId": "slap-tear",
+    "symptomId": "cause-sport",
+    "weight": 2
+  },
+  {
+    "conditionId": "slap-tear",
+    "symptomId": "cause-lift",
+    "weight": 2
+  },
+  {
+    "conditionId": "ac-joint-injury",
+    "symptomId": "loc-top",
+    "weight": 3
+  },
+  {
+    "conditionId": "ac-joint-injury",
+    "symptomId": "feel-pain",
+    "weight": 1
+  },
+  {
+    "conditionId": "ac-joint-injury",
+    "symptomId": "feel-sharp",
+    "weight": 2
+  },
+  {
+    "conditionId": "ac-joint-injury",
+    "symptomId": "when-lift",
+    "weight": 2
+  },
+  {
+    "conditionId": "ac-joint-injury",
+    "symptomId": "when-move",
+    "weight": 1
+  },
+  {
+    "conditionId": "ac-joint-injury",
+    "symptomId": "cause-fall",
+    "weight": 3
+  },
+  {
+    "conditionId": "ac-joint-injury",
+    "symptomId": "cause-collision",
+    "weight": 3
+  },
+  {
+    "conditionId": "biceps-tendinopathy",
+    "symptomId": "loc-front",
+    "weight": 3
+  },
+  {
+    "conditionId": "biceps-tendinopathy",
+    "symptomId": "feel-pain",
+    "weight": 1
+  },
+  {
+    "conditionId": "biceps-tendinopathy",
+    "symptomId": "when-lift",
+    "weight": 3
+  },
+  {
+    "conditionId": "biceps-tendinopathy",
+    "symptomId": "when-overhead",
+    "weight": 2
+  },
+  {
+    "conditionId": "biceps-tendinopathy",
+    "symptomId": "when-rotate",
+    "weight": 2
+  },
+  {
+    "conditionId": "biceps-tendinopathy",
+    "symptomId": "cause-repeat",
+    "weight": 2
+  },
+  {
+    "conditionId": "biceps-tendinopathy",
+    "symptomId": "onset-gradual",
+    "weight": 1
+  },
+  {
+    "conditionId": "frozen-shoulder",
+    "symptomId": "feel-pain",
+    "weight": 1
+  },
+  {
+    "conditionId": "frozen-shoulder",
+    "symptomId": "feel-stiff",
+    "weight": 3
+  },
+  {
+    "conditionId": "frozen-shoulder",
+    "symptomId": "feel-limited",
+    "weight": 3
+  },
+  {
+    "conditionId": "frozen-shoulder",
+    "symptomId": "when-rest",
+    "weight": 2
+  },
+  {
+    "conditionId": "frozen-shoulder",
+    "symptomId": "when-night",
+    "weight": 2
+  },
+  {
+    "conditionId": "frozen-shoulder",
+    "symptomId": "when-move",
+    "weight": 1
+  },
+  {
+    "conditionId": "frozen-shoulder",
+    "symptomId": "onset-gradual",
+    "weight": 1
+  },
+  {
+    "conditionId": "shoulder-fracture",
+    "symptomId": "feel-sharp",
+    "weight": 2
+  },
+  {
+    "conditionId": "shoulder-fracture",
+    "symptomId": "feel-limited",
+    "weight": 2
+  },
+  {
+    "conditionId": "shoulder-fracture",
+    "symptomId": "when-move",
+    "weight": 1
+  },
+  {
+    "conditionId": "shoulder-fracture",
+    "symptomId": "onset-sudden",
+    "weight": 3
+  },
+  {
+    "conditionId": "shoulder-fracture",
+    "symptomId": "cause-fall",
+    "weight": 3
+  },
+  {
+    "conditionId": "shoulder-fracture",
+    "symptomId": "cause-collision",
+    "weight": 3
+  },
+  {
+    "conditionId": "muscle-strain",
+    "symptomId": "feel-pain",
+    "weight": 1
+  },
+  {
+    "conditionId": "muscle-strain",
+    "symptomId": "feel-sharp",
+    "weight": 2
+  },
+  {
+    "conditionId": "muscle-strain",
+    "symptomId": "when-move",
+    "weight": 1
+  },
+  {
+    "conditionId": "muscle-strain",
+    "symptomId": "when-lift",
+    "weight": 2
+  },
+  {
+    "conditionId": "muscle-strain",
+    "symptomId": "cause-lift",
+    "weight": 3
+  },
+  {
+    "conditionId": "muscle-strain",
+    "symptomId": "cause-sport",
+    "weight": 3
+  },
+  {
+    "conditionId": "muscle-strain",
+    "symptomId": "cause-repeat",
+    "weight": 2
+  },
+  {
+    "conditionId": "shoulder-sprain",
+    "symptomId": "feel-pain",
+    "weight": 1
+  },
+  {
+    "conditionId": "shoulder-sprain",
+    "symptomId": "feel-sharp",
+    "weight": 2
+  },
+  {
+    "conditionId": "shoulder-sprain",
+    "symptomId": "feel-limited",
+    "weight": 2
+  },
+  {
+    "conditionId": "shoulder-sprain",
+    "symptomId": "when-move",
+    "weight": 1
+  },
+  {
+    "conditionId": "shoulder-sprain",
+    "symptomId": "onset-sudden",
+    "weight": 2
+  },
+  {
+    "conditionId": "shoulder-sprain",
+    "symptomId": "cause-fall",
+    "weight": 3
+  },
+  {
+    "conditionId": "shoulder-sprain",
+    "symptomId": "cause-collision",
+    "weight": 3
+  }
+]

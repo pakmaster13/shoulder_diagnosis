@@ -1,0 +1,362 @@
+[
+  {
+    "id": "rotator-cuff-tendinopathy",
+    "name": "Rotator cuff tendinopathy",
+    "structure": "Rotator cuff tendons",
+    "what": "The rotator cuff is a group of tendons that help move and steady the shoulder. Tendinopathy means a tendon is irritated or has changed over time.",
+    "symptoms": [
+      "Pain when lifting or reaching overhead",
+      "Pain that may be worse at night",
+      "Sometimes weakness"
+    ],
+    "causes": "It may develop gradually with repeated shoulder use or age-related changes. Shoulder symptoms can have several causes, so this pattern alone cannot identify the cause.",
+    "worse": "Lifting the arm, reaching overhead, or lying on the sore side may be uncomfortable for some people.",
+    "recovery": "Recovery varies. A health professional can assess the shoulder and discuss appropriate options. This page does not provide a personal treatment plan.",
+    "references": [
+      "aaos-rotator",
+      "mayo-shoulder"
+    ],
+    "riskFactors": [
+      "Repeated overhead use can be a contributing factor."
+    ],
+    "warningSigns": [
+      "Seek urgent assessment after a significant injury, for a visible change in shoulder shape, sudden swelling, severe pain, inability to move the arm, or new loss of feeling. Seek emergency help for shoulder symptoms with chest pain or trouble breathing."
+    ]
+  },
+  {
+    "id": "rotator-cuff-tear",
+    "name": "Rotator cuff tear",
+    "structure": "One or more rotator cuff tendons",
+    "what": "A rotator cuff tear is a partial or complete tear in one of the tendons that help lift and rotate the arm.",
+    "symptoms": [
+      "Pain with lifting or reaching",
+      "Weakness",
+      "Pain that can disturb sleep"
+    ],
+    "causes": "Some tears follow an injury, while others develop gradually. Symptoms and a questionnaire cannot confirm whether a tendon is torn.",
+    "worse": "Lifting or reaching overhead may increase symptoms.",
+    "recovery": "Some tears are managed without surgery, while others need further assessment. The right approach depends on the person and the tear; consult a healthcare professional.",
+    "references": [
+      "aaos-rotator",
+      "mayo-shoulder"
+    ],
+    "riskFactors": [
+      "Age-related tendon changes and injury are described in the AAOS patient guidance."
+    ],
+    "warningSigns": [
+      "After a fall or other injury, get prompt medical assessment for severe pain, sudden swelling, a changed shoulder shape, or inability to use the arm."
+    ]
+  },
+  {
+    "id": "shoulder-bursitis",
+    "name": "Shoulder bursitis",
+    "structure": "Bursa near the shoulder joint",
+    "what": "A bursa is a small fluid-filled sac that helps reduce friction between tissues. Bursitis means the sac is irritated.",
+    "symptoms": [
+      "Shoulder pain",
+      "Pain with raising the arm",
+      "Sometimes pain when lying on that side"
+    ],
+    "causes": "Bursa irritation can occur alongside other shoulder problems, including tendon problems. Similar symptoms can have other causes.",
+    "worse": "Some people notice more pain with arm movement or pressure on the area.",
+    "recovery": "The course varies and depends on the cause. A clinician can help assess ongoing or worsening symptoms.",
+    "references": [
+      "aaos-shoulder",
+      "mayo-shoulder"
+    ],
+    "riskFactors": [
+      "Repeated or excessive shoulder use can contribute."
+    ],
+    "warningSigns": [
+      "Seek care promptly for a hot, red, rapidly swollen shoulder, fever, severe pain, or symptoms after a significant injury."
+    ]
+  },
+  {
+    "id": "shoulder-impingement",
+    "name": "Shoulder impingement",
+    "structure": "Rotator cuff and nearby shoulder tissues",
+    "what": "Shoulder impingement is a term sometimes used when shoulder tissues are irritated during arm movement. It can overlap with rotator cuff or bursa problems.",
+    "symptoms": [
+      "Pain when raising the arm",
+      "Pain with overhead activity",
+      "Sometimes pain at night"
+    ],
+    "causes": "Several shoulder structures and conditions can cause a similar pattern. The term does not identify one confirmed cause by itself.",
+    "worse": "Raising the arm or reaching overhead may be uncomfortable.",
+    "recovery": "Recovery depends on the underlying cause. Seek an assessment if symptoms are persistent, worsening, or limiting daily activities.",
+    "references": [
+      "aaos-shoulder",
+      "mayo-shoulder"
+    ],
+    "riskFactors": [
+      "Repeated arm lifting may contribute to irritation."
+    ],
+    "warningSigns": [
+      "Seek urgent assessment for severe symptoms after an injury, visible deformity, sudden swelling, inability to move the arm, or new numbness."
+    ]
+  },
+  {
+    "id": "shoulder-dislocation",
+    "name": "Shoulder dislocation",
+    "structure": "Shoulder joint",
+    "what": "A dislocation happens when the upper arm bone comes out of the shoulder socket.",
+    "symptoms": [
+      "A shoulder that looks out of place",
+      "Severe pain after an injury",
+      "Difficulty moving the arm"
+    ],
+    "causes": "It commonly follows an injury such as a fall or collision. Only an in-person assessment can confirm a dislocation.",
+    "worse": "Moving the arm may be very painful.",
+    "recovery": "A suspected dislocation needs urgent medical assessment. Do not try to put the joint back into place yourself.",
+    "references": [
+      "nhs-dislocation",
+      "mayo-shoulder"
+    ],
+    "riskFactors": [
+      "A significant fall or collision can cause a dislocation."
+    ],
+    "warningSigns": [
+      "Get emergency medical care if the shoulder looks out of place or you cannot move the arm after injury. Call emergency services for chest pain or difficulty breathing."
+    ]
+  },
+  {
+    "id": "shoulder-subluxation",
+    "name": "Shoulder subluxation",
+    "structure": "Shoulder joint",
+    "what": "A subluxation is a partial slip of the upper arm bone from the shoulder socket. It may move back into place on its own.",
+    "symptoms": [
+      "A slipping or shifting feeling",
+      "Pain or a sense of looseness",
+      "Sometimes clicking"
+    ],
+    "causes": "It can follow injury or occur in a shoulder that is loose or unstable. These symptoms can also have other explanations.",
+    "worse": "Some people notice symptoms with arm positions or activities that place stress on the shoulder.",
+    "recovery": "Repeated episodes or ongoing symptoms should be discussed with a healthcare professional.",
+    "references": [
+      "aaos-shoulder",
+      "mayo-shoulder"
+    ],
+    "riskFactors": [
+      "A previous shoulder injury or instability may be relevant."
+    ],
+    "warningSigns": [
+      "Get urgent help after an injury if the shoulder is deformed, severely painful, swollen, or difficult to move."
+    ]
+  },
+  {
+    "id": "shoulder-instability",
+    "name": "Shoulder instability",
+    "structure": "Shoulder joint and supporting tissues",
+    "what": "Instability describes a shoulder that feels as if it may slip out of place. It can range from looseness to repeated partial or complete dislocations.",
+    "symptoms": [
+      "A slipping or giving-way feeling",
+      "Reduced confidence using the arm",
+      "Sometimes clicking or pain"
+    ],
+    "causes": "It may follow an injury or relate to the tissues that support the joint. A professional assessment is needed to understand the cause.",
+    "worse": "Certain arm positions or sports movements may bring on symptoms.",
+    "recovery": "Repeated symptoms should be assessed. Options depend on the cause, frequency, and effect on daily life.",
+    "references": [
+      "aaos-shoulder",
+      "mayo-shoulder"
+    ],
+    "riskFactors": [
+      "A prior dislocation or shoulder injury may be relevant."
+    ],
+    "warningSigns": [
+      "Seek urgent assessment if the shoulder looks out of place, becomes severely painful, or cannot be moved after injury."
+    ]
+  },
+  {
+    "id": "labral-tear",
+    "name": "Shoulder labral tear",
+    "structure": "Labrum, the rim of cartilage around the shoulder socket",
+    "what": "The labrum is a ring of cartilage that deepens the shoulder socket. A tear is damage to this rim of tissue.",
+    "symptoms": [
+      "Deep shoulder pain",
+      "Clicking or catching",
+      "Sometimes a feeling of instability"
+    ],
+    "causes": "A tear can follow an injury or repeated shoulder stress. Similar symptoms can come from other shoulder problems.",
+    "worse": "Some people notice symptoms during overhead or repeated movements.",
+    "recovery": "A questionnaire cannot confirm a labral tear. A healthcare professional can decide whether further examination or tests are appropriate.",
+    "references": [
+      "aaos-shoulder",
+      "mayo-shoulder"
+    ],
+    "riskFactors": [
+      "Injury or repeated shoulder stress may contribute."
+    ],
+    "warningSigns": [
+      "Seek prompt care for severe pain after injury, visible deformity, or inability to move the arm."
+    ]
+  },
+  {
+    "id": "slap-tear",
+    "name": "SLAP tear",
+    "structure": "Upper part of the labrum and biceps attachment",
+    "what": "A SLAP tear is an injury to the upper part of the labrum where the biceps tendon attaches near the shoulder socket.",
+    "symptoms": [
+      "Deep shoulder pain",
+      "Clicking, catching, or reduced strength",
+      "Pain during some overhead activities"
+    ],
+    "causes": "It may follow an injury or develop with repeated overhead activity. Symptoms alone cannot confirm this specific tear.",
+    "worse": "Some people notice discomfort during overhead movement or throwing.",
+    "recovery": "Assessment by a healthcare professional is needed to determine whether a SLAP tear is present and what care may be appropriate.",
+    "references": [
+      "aaos-shoulder",
+      "mayo-shoulder"
+    ],
+    "riskFactors": [
+      "Injury or repeated overhead activity may contribute."
+    ],
+    "warningSigns": [
+      "Seek urgent assessment if symptoms follow a significant injury and the arm is very painful, deformed, or cannot be moved."
+    ]
+  },
+  {
+    "id": "ac-joint-injury",
+    "name": "AC joint injury",
+    "structure": "Acromioclavicular (AC) joint at the top of the shoulder",
+    "what": "The AC joint is where the collarbone meets the top of the shoulder blade. An injury can stretch or tear the ligaments supporting it.",
+    "symptoms": [
+      "Pain at the top of the shoulder",
+      "Tenderness near the collarbone",
+      "Sometimes a visible bump after injury"
+    ],
+    "causes": "It often follows a fall or direct impact to the shoulder.",
+    "worse": "Lifting the arm across the body or carrying may be uncomfortable.",
+    "recovery": "Injuries vary in severity. A clinician can assess the joint, especially after a fall or impact.",
+    "references": [
+      "aaos-shoulder",
+      "mayo-shoulder"
+    ],
+    "riskFactors": [
+      "A fall or direct impact can injure the joint."
+    ],
+    "warningSigns": [
+      "Get prompt assessment after an injury if there is a visible change in shape, severe pain, rapid swelling, or inability to use the arm."
+    ]
+  },
+  {
+    "id": "biceps-tendinopathy",
+    "name": "Biceps tendinopathy",
+    "structure": "Biceps tendon near the front of the shoulder",
+    "what": "The biceps tendon connects the biceps muscle to bones near the shoulder. Tendinopathy describes irritation or changes in a tendon.",
+    "symptoms": [
+      "Pain near the front of the shoulder",
+      "Pain when lifting or reaching",
+      "Sometimes weakness"
+    ],
+    "causes": "It may develop gradually or alongside other shoulder conditions. A symptom pattern does not confirm the source of pain.",
+    "worse": "Lifting, reaching, or repeated arm movements may be uncomfortable.",
+    "recovery": "Persistent or worsening symptoms should be assessed by a healthcare professional.",
+    "references": [
+      "aaos-shoulder",
+      "mayo-shoulder"
+    ],
+    "riskFactors": [
+      "Repeated overhead activity may contribute."
+    ],
+    "warningSigns": [
+      "Seek urgent assessment for severe pain after injury, sudden swelling, a changed shoulder shape, or new loss of feeling."
+    ]
+  },
+  {
+    "id": "frozen-shoulder",
+    "name": "Frozen shoulder",
+    "structure": "Capsule around the shoulder joint",
+    "what": "Frozen shoulder is a condition in which the capsule around the joint becomes painful and stiff, limiting movement.",
+    "symptoms": [
+      "Stiffness and reduced movement",
+      "Pain that may be worse at night",
+      "Difficulty with everyday arm movements"
+    ],
+    "causes": "It can develop gradually, sometimes after the shoulder has been kept still for a time. The exact cause is not always clear.",
+    "worse": "As movement becomes limited, reaching in different directions can become difficult.",
+    "recovery": "Recovery can take time and varies. A healthcare professional can assess stiffness and discuss suitable care.",
+    "references": [
+      "aaos-frozen",
+      "mayo-shoulder"
+    ],
+    "riskFactors": [
+      "Risk factors described by AAOS include age 40 to 60, a period of shoulder immobilization, and diabetes."
+    ],
+    "warningSigns": [
+      "Seek assessment if movement is becoming very limited, symptoms are worsening, or pain is affecting sleep and daily activities."
+    ]
+  },
+  {
+    "id": "shoulder-fracture",
+    "name": "Shoulder fracture",
+    "structure": "One or more bones around the shoulder",
+    "what": "A fracture is a break in a bone. Bones around the shoulder can break after a fall or other forceful injury.",
+    "symptoms": [
+      "Pain after an injury",
+      "Swelling or bruising",
+      "Difficulty moving the arm"
+    ],
+    "causes": "Fractures can follow a fall or direct impact. Imaging and clinical assessment may be needed to confirm one.",
+    "worse": "Using or moving the injured arm may be painful.",
+    "recovery": "A suspected fracture needs medical assessment. Recovery depends on the bone and type of injury.",
+    "references": [
+      "nhs-collarbone",
+      "mayo-shoulder"
+    ],
+    "riskFactors": [
+      "Falls and direct impact are common injury mechanisms; fall risk can be important for older adults."
+    ],
+    "warningSigns": [
+      "Get urgent medical help after an injury with severe pain, rapid swelling, a changed shoulder shape, exposed bone, or inability to use the arm. Trouble breathing or chest pain is an emergency."
+    ]
+  },
+  {
+    "id": "muscle-strain",
+    "name": "Muscle strain",
+    "structure": "Muscles around the shoulder",
+    "what": "A muscle strain is an overstretch or small tear in muscle fibres.",
+    "symptoms": [
+      "Local pain or tenderness",
+      "Pain with movement or effort",
+      "Sometimes stiffness"
+    ],
+    "causes": "It can occur with sudden effort, lifting, or repeated use.",
+    "worse": "Using the affected muscle may increase discomfort.",
+    "recovery": "Symptoms vary. Seek advice if pain is severe, not improving, or affecting normal activities.",
+    "references": [
+      "mayo-shoulder",
+      "nhs-shoulder"
+    ],
+    "riskFactors": [
+      "Sudden effort, lifting, or repeated use can contribute."
+    ],
+    "warningSigns": [
+      "Seek urgent assessment after a significant injury, or for severe pain, major swelling, inability to move the arm, or new numbness."
+    ]
+  },
+  {
+    "id": "shoulder-sprain",
+    "name": "Shoulder sprain",
+    "structure": "Ligaments supporting the shoulder",
+    "what": "A sprain is a stretch or tear in a ligament, the tissue that connects bones. Different shoulder joints have different ligaments.",
+    "symptoms": [
+      "Pain after a twist or impact",
+      "Tenderness and sometimes swelling",
+      "Difficulty moving the shoulder"
+    ],
+    "causes": "It often follows a fall, collision, or sudden force.",
+    "worse": "Movement or pressure on the injured area may be uncomfortable.",
+    "recovery": "Severity varies. A clinician can assess significant injuries and exclude a fracture or dislocation.",
+    "references": [
+      "mayo-shoulder",
+      "nhs-shoulder"
+    ],
+    "riskFactors": [
+      "A fall, collision, or sudden force can cause a sprain."
+    ],
+    "warningSigns": [
+      "Get urgent assessment after a significant injury, especially with deformity, sudden swelling, severe pain, inability to move the arm, or loss of feeling."
+    ]
+  }
+]
