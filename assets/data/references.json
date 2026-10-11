@@ -60,5 +60,47 @@
     "evidenceType": "Government health guidance",
     "url": "https://111.wales.nhs.uk/Shoulderpain/",
     "summary": "General shoulder pain information and when to seek further medical advice."
+  },
+  {
+    "id": "mayo-rotator-cuff-video",
+    "organization": "Mayo Clinic",
+    "title": "Video: Rotator cuff damage",
+    "year": "2022",
+    "evidenceType": "Patient education video",
+    "url": "https://www.mayoclinic.org/diseases-conditions/rotator-cuff-injury/multimedia/rotator-cuff-damage-video/vid-20086379",
+    "summary": "Mayo Clinic video page describing rotator cuff function and how irritation or damage may affect shoulder movement."
+  },
+  {
+    "id": "mayo-frozen-shoulder-video",
+    "organization": "Mayo Clinic Orthopedics & Sports Medicine",
+    "title": "Mayo Clinic Minute: Tips to help a frozen shoulder",
+    "year": "2023",
+    "evidenceType": "Patient education video and transcript",
+    "url": "https://sportsmedicine.mayoclinic.org/news/mayo-clinic-minute-tips-to-help-a-frozen-shoulder/",
+    "summary": "Short video and transcript discussing frozen shoulder symptoms, stages, and why treatment depends on the stage."
+  },
+  {
+    "id": "leicestershire-shoulder-self-care",
+    "organization": "Leicestershire Partnership NHS Trust",
+    "title": "Shoulder Pain: self-help guidance",
+    "evidenceType": "NHS physiotherapy patient guidance",
+    "url": "https://www.leicspart.nhs.uk/msk-physiotherapy-resources-getting-started/upper-limb/shoulder/",
+    "summary": "Guidance on adjusting activity, comfortable positioning, heat or ice precautions, pharmacist advice, and signs that need urgent assessment."
+  },
+  {
+    "id": "health-canada-medication-safety",
+    "organization": "Health Canada",
+    "title": "Using medications safely",
+    "evidenceType": "Government medication-safety guidance",
+    "url": "https://www.canada.ca/en/health-canada/services/drugs-medical-devices/using-medications-safely.html",
+    "summary": "General advice to understand medication risks, follow directions, and discuss medication questions with a doctor, pharmacist, or healthcare professional."
+  },
+  {
+    "id": "health-canada-older-adults-medication-interactions",
+    "organization": "Public Health Agency of Canada",
+    "title": "Using substances as an older adult",
+    "evidenceType": "Government health guidance",
+    "url": "https://www.canada.ca/en/public-health/services/health-promotion/aging-seniors/using-substances-older-adult.html",
+    "summary": "Explains that medications and other substances can interact and advises speaking with a healthcare provider about concerns."
   }
 ]

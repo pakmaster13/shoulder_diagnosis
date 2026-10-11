@@ -18,3 +18,15 @@ flutter:
     - assets/data/conditions.json
     - assets/data/matches.json
     - assets/data/references.json
+    - assets/data/recovery_resources.json
+    - assets/data/videos.json
+    - assets/data/temporary_pain_options.json
+  fonts:
+    - family: SourceSans3
+      fonts:
+        - asset: assets/fonts/SourceSans3-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/SourceSans3-Semibold.ttf
+          weight: 600
+        - asset: assets/fonts/SourceSans3-Bold.ttf
+          weight: 700

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "mayo-rotator-cuff-damage",
+    "title": "Video: Rotator cuff damage",
+    "description": "Mayo Clinic explains what the rotator cuff does and how irritation or damage may relate to pain, weakness, and reduced range of motion.",
+    "publisher": "Mayo Clinic",
+    "presenterName": null,
+    "presenterCredentials": null,
+    "videoUrl": "https://www.mayoclinic.org/diseases-conditions/rotator-cuff-injury/multimedia/rotator-cuff-damage-video/vid-20086379",
+    "embedUrl": null,
+    "category": "understanding_condition",
+    "language": "en",
+    "durationSeconds": null,
+    "relevantConditionIds": [
+      "rotator-cuff-tendinopathy",
+      "rotator-cuff-tear"
+    ],
+    "relevantRecoveryResourceIds": [
+      "recovery-rotator-cuff-tendinopathy",
+      "recovery-rotator-cuff-tear"
+    ],
+    "intendedAudience": "General adult audience seeking an introduction to rotator cuff problems.",
+    "prerequisitesOrPrecautions": "General educational information only. It does not establish a diagnosis or determine an individual treatment plan.",
+    "referenceIds": [
+      "mayo-rotator-cuff-video"
+    ],
+    "verification": {
+      "sourceVerified": true,
+      "relevanceChecked": true,
+      "medicalReviewStatus": "not_reviewed_for_this_app",
+      "lastReviewed": "2026-10-11",
+      "reviewNotes": "Checked the Mayo Clinic page, publisher, date, description, and listed references. The page describes rotator cuff function and damage. This app has not conducted a separate qualified medical review."
+    },
+    "exerciseSafety": {
+      "reviewStatus": "not_applicable",
+      "approvedConditionIds": [],
+      "assessmentRequiredConditionIds": []
+    },
+    "transcriptUrl": null,
+    "captionsStatus": "not_verified"
+  },
+  {
+    "id": "mayo-frozen-shoulder-minute",
+    "title": "Mayo Clinic Minute: Tips to help a frozen shoulder",
+    "description": "A short explanation of frozen shoulder, its stages, and why symptoms and treatment options can vary over time.",
+    "publisher": "Mayo Clinic Orthopedics & Sports Medicine",
+    "presenterName": "Christopher Camp",
+    "presenterCredentials": "Orthopedic surgeon, as identified by Mayo Clinic",
+    "videoUrl": "https://sportsmedicine.mayoclinic.org/news/mayo-clinic-minute-tips-to-help-a-frozen-shoulder/",
+    "embedUrl": null,
+    "category": "understanding_condition",
+    "language": "en",
+    "durationSeconds": 59,
+    "relevantConditionIds": [
+      "frozen-shoulder"
+    ],
+    "relevantRecoveryResourceIds": [
+      "recovery-frozen-shoulder"
+    ],
+    "intendedAudience": "General adult audience seeking information about frozen shoulder.",
+    "prerequisitesOrPrecautions": "General information only. The video does not determine whether a particular treatment or exercise is appropriate for an individual.",
+    "referenceIds": [
+      "mayo-frozen-shoulder-video"
+    ],
+    "verification": {
+      "sourceVerified": true,
+      "relevanceChecked": true,
+      "medicalReviewStatus": "not_reviewed_for_this_app",
+      "lastReviewed": "2026-10-11",
+      "reviewNotes": "Checked the Mayo Clinic Orthopedics & Sports Medicine article, attribution, video link, duration, and transcript excerpt. Mayo identifies Dr. Camp as an orthopedic surgeon. This app has not conducted a separate qualified medical review."
+    },
+    "exerciseSafety": {
+      "reviewStatus": "not_applicable",
+      "approvedConditionIds": [],
+      "assessmentRequiredConditionIds": []
+    },
+    "transcriptUrl": "https://sportsmedicine.mayoclinic.org/news/mayo-clinic-minute-tips-to-help-a-frozen-shoulder/",
+    "captionsStatus": "not_verified"
+  }
+]

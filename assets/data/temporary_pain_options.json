@@ -1,0 +1,104 @@
+[
+  {
+    "id": "adjust-aggravating-activities",
+    "title": "Adjust activities that worsen your discomfort",
+    "description": "Consider shortening, changing, or easing back on an activity that clearly makes your shoulder feel worse. Avoid complete rest; keep to comfortable everyday movement.",
+    "whenItMayHelp": "For non-urgent shoulder discomfort when particular tasks or movements are aggravating symptoms.",
+    "precautions": "Do not use this advice to delay assessment after a significant injury or when pain is severe, worsening, or movement is very limited. This is not an exercise plan.",
+    "applicableConditionIds": [
+      "rotator-cuff-tendinopathy",
+      "shoulder-bursitis",
+      "shoulder-impingement",
+      "biceps-tendinopathy",
+      "frozen-shoulder",
+      "muscle-strain"
+    ],
+    "referenceIds": [
+      "leicestershire-shoulder-self-care"
+    ],
+    "verification": {
+      "sourceVerified": true,
+      "contentChecked": true,
+      "medicalReviewStatus": "not_medically_reviewed_for_this_app",
+      "lastReviewed": "2026-10-11",
+      "reviewNotes": "Checked the NHS Trust page for activity modification, avoiding complete rest, and urgent assessment advice. No exercise prescription was taken from this source."
+    }
+  },
+  {
+    "id": "comfortable-arm-support",
+    "title": "Try a pillow to support your arm while sleeping",
+    "description": "A pillow may help support your arm while you sleep or keep you from rolling onto the painful side.",
+    "whenItMayHelp": "When a supported position feels more comfortable during rest or sleep.",
+    "precautions": "Use a position only if it feels comfortable. Get medical assessment for a significant injury, severe symptoms, or major difficulty moving the arm.",
+    "applicableConditionIds": [
+      "rotator-cuff-tendinopathy",
+      "shoulder-bursitis",
+      "shoulder-impingement",
+      "biceps-tendinopathy",
+      "frozen-shoulder",
+      "muscle-strain"
+    ],
+    "referenceIds": [
+      "leicestershire-shoulder-self-care"
+    ],
+    "verification": {
+      "sourceVerified": true,
+      "contentChecked": true,
+      "medicalReviewStatus": "not_medically_reviewed_for_this_app",
+      "lastReviewed": "2026-10-11",
+      "reviewNotes": "Checked the NHS Trust page for sleeping positions and pillow support. The page also advises seeking assessment for significant injury or serious symptoms."
+    }
+  },
+  {
+    "id": "wrapped-heat-or-cold",
+    "title": "Consider a wrapped heat or cold pack",
+    "description": "Some people find a heat or cold pack soothing for shoulder discomfort. Put a cloth between the pack and your skin; do not place it directly on bare skin.",
+    "whenItMayHelp": "As a temporary comfort measure for non-urgent shoulder pain. People may prefer warmth or coolness differently.",
+    "precautions": "Stop if it feels uncomfortable. Do not use this instead of medical assessment after a significant injury or for severe or worsening symptoms.",
+    "applicableConditionIds": [
+      "rotator-cuff-tendinopathy",
+      "shoulder-bursitis",
+      "shoulder-impingement",
+      "biceps-tendinopathy",
+      "frozen-shoulder",
+      "muscle-strain"
+    ],
+    "referenceIds": [
+      "leicestershire-shoulder-self-care"
+    ],
+    "verification": {
+      "sourceVerified": true,
+      "contentChecked": true,
+      "medicalReviewStatus": "not_medically_reviewed_for_this_app",
+      "lastReviewed": "2026-10-11",
+      "reviewNotes": "The NHS Trust page says heat or ice may ease pain and cautions against applying them to bare skin. It does not claim either option is right for everyone."
+    }
+  },
+  {
+    "id": "ask-pharmacist-about-pain-relief",
+    "title": "Ask a pharmacist about non-prescription pain relief",
+    "description": "If you are considering a non-prescription pain medicine, ask a pharmacist or healthcare professional what may be suitable for you. Tell them about your health conditions and all prescription, non-prescription, and natural health products you use.",
+    "whenItMayHelp": "If you are unsure what option is suitable, especially if you are an older adult, take other medicines, or have a health condition.",
+    "precautions": "This guide does not choose a medicine or provide a dose. Follow the product label and advice from your healthcare professional; check before combining products.",
+    "applicableConditionIds": [
+      "rotator-cuff-tendinopathy",
+      "shoulder-bursitis",
+      "shoulder-impingement",
+      "biceps-tendinopathy",
+      "frozen-shoulder",
+      "muscle-strain"
+    ],
+    "referenceIds": [
+      "leicestershire-shoulder-self-care",
+      "health-canada-medication-safety",
+      "health-canada-older-adults-medication-interactions"
+    ],
+    "verification": {
+      "sourceVerified": true,
+      "contentChecked": true,
+      "medicalReviewStatus": "not_medically_reviewed_for_this_app",
+      "lastReviewed": "2026-10-11",
+      "reviewNotes": "Checked the NHS Trust recommendation to ask a pharmacist or GP about simple pain relief and Health Canada medication-safety guidance on risks, directions, and interactions. No medicine or dose is recommended here."
+    }
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "id": "recovery-rotator-cuff-tendinopathy",
+    "title": "Recovery information: Rotator cuff tendinopathy",
+    "category": "recovery_education",
+    "summary": "Recovery varies. A health professional can assess the shoulder and discuss appropriate options. This page does not provide a personal treatment plan.",
+    "relevantConditionIds": [
+      "rotator-cuff-tendinopathy"
+    ],
+    "referenceIds": [
+      "aaos-rotator",
+      "mayo-shoulder"
+    ]
+  },
+  {
+    "id": "recovery-rotator-cuff-tear",
+    "title": "Recovery information: Rotator cuff tear",
+    "category": "recovery_education",
+    "summary": "Some tears are managed without surgery, while others need further assessment. The right approach depends on the person and the tear; consult a healthcare professional.",
+    "relevantConditionIds": [
+      "rotator-cuff-tear"
+    ],
+    "referenceIds": [
+      "aaos-rotator",
+      "mayo-shoulder"
+    ]
+  },
+  {
+    "id": "recovery-shoulder-bursitis",
+    "title": "Recovery information: Shoulder bursitis",
+    "category": "recovery_education",
+    "summary": "The course varies and depends on the cause. A clinician can help assess ongoing or worsening symptoms.",
+    "relevantConditionIds": [
+      "shoulder-bursitis"
+    ],
+    "referenceIds": [
+      "aaos-shoulder",
+      "mayo-shoulder"
+    ]
+  },
+  {
+    "id": "recovery-shoulder-impingement",
+    "title": "Recovery information: Shoulder impingement",
+    "category": "recovery_education",
+    "summary": "Recovery depends on the underlying cause. Seek an assessment if symptoms are persistent, worsening, or limiting daily activities.",
+    "relevantConditionIds": [
+      "shoulder-impingement"
+    ],
+    "referenceIds": [
+      "aaos-shoulder",
+      "mayo-shoulder"
+    ]
+  },
+  {
+    "id": "recovery-shoulder-dislocation",
+    "title": "Recovery information: Shoulder dislocation",
+    "category": "recovery_education",
+    "summary": "A suspected dislocation needs urgent medical assessment. Do not try to put the joint back into place yourself.",
+    "relevantConditionIds": [
+      "shoulder-dislocation"
+    ],
+    "referenceIds": [
+      "nhs-dislocation",
+      "mayo-shoulder"
+    ]
+  },
+  {
+    "id": "recovery-shoulder-subluxation",
+    "title": "Recovery information: Shoulder subluxation",
+    "category": "recovery_education",
+    "summary": "Repeated episodes or ongoing symptoms should be discussed with a healthcare professional.",
+    "relevantConditionIds": [
+      "shoulder-subluxation"
+    ],
+    "referenceIds": [
+      "aaos-shoulder",
+      "mayo-shoulder"
+    ]
+  },
+  {
+    "id": "recovery-shoulder-instability",
+    "title": "Recovery information: Shoulder instability",
+    "category": "recovery_education",
+    "summary": "Repeated symptoms should be assessed. Options depend on the cause, frequency, and effect on daily life.",
+    "relevantConditionIds": [
+      "shoulder-instability"
+    ],
+    "referenceIds": [
+      "aaos-shoulder",
+      "mayo-shoulder"
+    ]
+  },
+  {
+    "id": "recovery-labral-tear",
+    "title": "Recovery information: Shoulder labral tear",
+    "category": "recovery_education",
+    "summary": "A questionnaire cannot confirm a labral tear. A healthcare professional can decide whether further examination or tests are appropriate.",
+    "relevantConditionIds": [
+      "labral-tear"
+    ],
+    "referenceIds": [
+      "aaos-shoulder",
+      "mayo-shoulder"
+    ]
+  },
+  {
+    "id": "recovery-slap-tear",
+    "title": "Recovery information: SLAP tear",
+    "category": "recovery_education",
+    "summary": "Assessment by a healthcare professional is needed to determine whether a SLAP tear is present and what care may be appropriate.",
+    "relevantConditionIds": [
+      "slap-tear"
+    ],
+    "referenceIds": [
+      "aaos-shoulder",
+      "mayo-shoulder"
+    ]
+  },
+  {
+    "id": "recovery-ac-joint-injury",
+    "title": "Recovery information: AC joint injury",
+    "category": "recovery_education",
+    "summary": "Injuries vary in severity. A clinician can assess the joint, especially after a fall or impact.",
+    "relevantConditionIds": [
+      "ac-joint-injury"
+    ],
+    "referenceIds": [
+      "aaos-shoulder",
+      "mayo-shoulder"
+    ]
+  },
+  {
+    "id": "recovery-biceps-tendinopathy",
+    "title": "Recovery information: Biceps tendinopathy",
+    "category": "recovery_education",
+    "summary": "Persistent or worsening symptoms should be assessed by a healthcare professional.",
+    "relevantConditionIds": [
+      "biceps-tendinopathy"
+    ],
+    "referenceIds": [
+      "aaos-shoulder",
+      "mayo-shoulder"
+    ]
+  },
+  {
+    "id": "recovery-frozen-shoulder",
+    "title": "Recovery information: Frozen shoulder",
+    "category": "recovery_education",
+    "summary": "Recovery can take time and varies. A healthcare professional can assess stiffness and discuss suitable care.",
+    "relevantConditionIds": [
+      "frozen-shoulder"
+    ],
+    "referenceIds": [
+      "aaos-frozen",
+      "mayo-shoulder"
+    ]
+  },
+  {
+    "id": "recovery-shoulder-fracture",
+    "title": "Recovery information: Shoulder fracture",
+    "category": "recovery_education",
+    "summary": "A suspected fracture needs medical assessment. Recovery depends on the bone and type of injury.",
+    "relevantConditionIds": [
+      "shoulder-fracture"
+    ],
+    "referenceIds": [
+      "nhs-collarbone",
+      "mayo-shoulder"
+    ]
+  },
+  {
+    "id": "recovery-muscle-strain",
+    "title": "Recovery information: Muscle strain",
+    "category": "recovery_education",
+    "summary": "Symptoms vary. Seek advice if pain is severe, not improving, or affecting normal activities.",
+    "relevantConditionIds": [
+      "muscle-strain"
+    ],
+    "referenceIds": [
+      "mayo-shoulder",
+      "nhs-shoulder"
+    ]
+  },
+  {
+    "id": "recovery-shoulder-sprain",
+    "title": "Recovery information: Shoulder sprain",
+    "category": "recovery_education",
+    "summary": "Severity varies. A clinician can assess significant injuries and exclude a fracture or dislocation.",
+    "relevantConditionIds": [
+      "shoulder-sprain"
+    ],
+    "referenceIds": [
+      "mayo-shoulder",
+      "nhs-shoulder"
+    ]
+  }
+]

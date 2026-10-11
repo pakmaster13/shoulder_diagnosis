@@ -11,7 +11,6 @@
     ],
     "causes": "It may develop gradually with repeated shoulder use or age-related changes. Shoulder symptoms can have several causes, so this pattern alone cannot identify the cause.",
     "worse": "Lifting the arm, reaching overhead, or lying on the sore side may be uncomfortable for some people.",
-    "recovery": "Recovery varies. A health professional can assess the shoulder and discuss appropriate options. This page does not provide a personal treatment plan.",
     "references": [
       "aaos-rotator",
       "mayo-shoulder"
@@ -21,6 +20,9 @@
     ],
     "warningSigns": [
       "Seek urgent assessment after a significant injury, for a visible change in shoulder shape, sudden swelling, severe pain, inability to move the arm, or new loss of feeling. Seek emergency help for shoulder symptoms with chest pain or trouble breathing."
+    ],
+    "recoveryResourceIds": [
+      "recovery-rotator-cuff-tendinopathy"
     ]
   },
   {
@@ -35,7 +37,6 @@
     ],
     "causes": "Some tears follow an injury, while others develop gradually. Symptoms and a questionnaire cannot confirm whether a tendon is torn.",
     "worse": "Lifting or reaching overhead may increase symptoms.",
-    "recovery": "Some tears are managed without surgery, while others need further assessment. The right approach depends on the person and the tear; consult a healthcare professional.",
     "references": [
       "aaos-rotator",
       "mayo-shoulder"
@@ -45,6 +46,9 @@
     ],
     "warningSigns": [
       "After a fall or other injury, get prompt medical assessment for severe pain, sudden swelling, a changed shoulder shape, or inability to use the arm."
+    ],
+    "recoveryResourceIds": [
+      "recovery-rotator-cuff-tear"
     ]
   },
   {
@@ -59,7 +63,6 @@
     ],
     "causes": "Bursa irritation can occur alongside other shoulder problems, including tendon problems. Similar symptoms can have other causes.",
     "worse": "Some people notice more pain with arm movement or pressure on the area.",
-    "recovery": "The course varies and depends on the cause. A clinician can help assess ongoing or worsening symptoms.",
     "references": [
       "aaos-shoulder",
       "mayo-shoulder"
@@ -69,6 +72,9 @@
     ],
     "warningSigns": [
       "Seek care promptly for a hot, red, rapidly swollen shoulder, fever, severe pain, or symptoms after a significant injury."
+    ],
+    "recoveryResourceIds": [
+      "recovery-shoulder-bursitis"
     ]
   },
   {
@@ -83,7 +89,6 @@
     ],
     "causes": "Several shoulder structures and conditions can cause a similar pattern. The term does not identify one confirmed cause by itself.",
     "worse": "Raising the arm or reaching overhead may be uncomfortable.",
-    "recovery": "Recovery depends on the underlying cause. Seek an assessment if symptoms are persistent, worsening, or limiting daily activities.",
     "references": [
       "aaos-shoulder",
       "mayo-shoulder"
@@ -93,6 +98,9 @@
     ],
     "warningSigns": [
       "Seek urgent assessment for severe symptoms after an injury, visible deformity, sudden swelling, inability to move the arm, or new numbness."
+    ],
+    "recoveryResourceIds": [
+      "recovery-shoulder-impingement"
     ]
   },
   {
@@ -107,7 +115,6 @@
     ],
     "causes": "It commonly follows an injury such as a fall or collision. Only an in-person assessment can confirm a dislocation.",
     "worse": "Moving the arm may be very painful.",
-    "recovery": "A suspected dislocation needs urgent medical assessment. Do not try to put the joint back into place yourself.",
     "references": [
       "nhs-dislocation",
       "mayo-shoulder"
@@ -117,6 +124,9 @@
     ],
     "warningSigns": [
       "Get emergency medical care if the shoulder looks out of place or you cannot move the arm after injury. Call emergency services for chest pain or difficulty breathing."
+    ],
+    "recoveryResourceIds": [
+      "recovery-shoulder-dislocation"
     ]
   },
   {
@@ -131,7 +141,6 @@
     ],
     "causes": "It can follow injury or occur in a shoulder that is loose or unstable. These symptoms can also have other explanations.",
     "worse": "Some people notice symptoms with arm positions or activities that place stress on the shoulder.",
-    "recovery": "Repeated episodes or ongoing symptoms should be discussed with a healthcare professional.",
     "references": [
       "aaos-shoulder",
       "mayo-shoulder"
@@ -141,6 +150,9 @@
     ],
     "warningSigns": [
       "Get urgent help after an injury if the shoulder is deformed, severely painful, swollen, or difficult to move."
+    ],
+    "recoveryResourceIds": [
+      "recovery-shoulder-subluxation"
     ]
   },
   {
@@ -155,7 +167,6 @@
     ],
     "causes": "It may follow an injury or relate to the tissues that support the joint. A professional assessment is needed to understand the cause.",
     "worse": "Certain arm positions or sports movements may bring on symptoms.",
-    "recovery": "Repeated symptoms should be assessed. Options depend on the cause, frequency, and effect on daily life.",
     "references": [
       "aaos-shoulder",
       "mayo-shoulder"
@@ -165,6 +176,9 @@
     ],
     "warningSigns": [
       "Seek urgent assessment if the shoulder looks out of place, becomes severely painful, or cannot be moved after injury."
+    ],
+    "recoveryResourceIds": [
+      "recovery-shoulder-instability"
     ]
   },
   {
@@ -179,7 +193,6 @@
     ],
     "causes": "A tear can follow an injury or repeated shoulder stress. Similar symptoms can come from other shoulder problems.",
     "worse": "Some people notice symptoms during overhead or repeated movements.",
-    "recovery": "A questionnaire cannot confirm a labral tear. A healthcare professional can decide whether further examination or tests are appropriate.",
     "references": [
       "aaos-shoulder",
       "mayo-shoulder"
@@ -189,6 +202,9 @@
     ],
     "warningSigns": [
       "Seek prompt care for severe pain after injury, visible deformity, or inability to move the arm."
+    ],
+    "recoveryResourceIds": [
+      "recovery-labral-tear"
     ]
   },
   {
@@ -203,7 +219,6 @@
     ],
     "causes": "It may follow an injury or develop with repeated overhead activity. Symptoms alone cannot confirm this specific tear.",
     "worse": "Some people notice discomfort during overhead movement or throwing.",
-    "recovery": "Assessment by a healthcare professional is needed to determine whether a SLAP tear is present and what care may be appropriate.",
     "references": [
       "aaos-shoulder",
       "mayo-shoulder"
@@ -213,6 +228,9 @@
     ],
     "warningSigns": [
       "Seek urgent assessment if symptoms follow a significant injury and the arm is very painful, deformed, or cannot be moved."
+    ],
+    "recoveryResourceIds": [
+      "recovery-slap-tear"
     ]
   },
   {
@@ -227,7 +245,6 @@
     ],
     "causes": "It often follows a fall or direct impact to the shoulder.",
     "worse": "Lifting the arm across the body or carrying may be uncomfortable.",
-    "recovery": "Injuries vary in severity. A clinician can assess the joint, especially after a fall or impact.",
     "references": [
       "aaos-shoulder",
       "mayo-shoulder"
@@ -237,6 +254,9 @@
     ],
     "warningSigns": [
       "Get prompt assessment after an injury if there is a visible change in shape, severe pain, rapid swelling, or inability to use the arm."
+    ],
+    "recoveryResourceIds": [
+      "recovery-ac-joint-injury"
     ]
   },
   {
@@ -251,7 +271,6 @@
     ],
     "causes": "It may develop gradually or alongside other shoulder conditions. A symptom pattern does not confirm the source of pain.",
     "worse": "Lifting, reaching, or repeated arm movements may be uncomfortable.",
-    "recovery": "Persistent or worsening symptoms should be assessed by a healthcare professional.",
     "references": [
       "aaos-shoulder",
       "mayo-shoulder"
@@ -261,6 +280,9 @@
     ],
     "warningSigns": [
       "Seek urgent assessment for severe pain after injury, sudden swelling, a changed shoulder shape, or new loss of feeling."
+    ],
+    "recoveryResourceIds": [
+      "recovery-biceps-tendinopathy"
     ]
   },
   {
@@ -275,7 +297,6 @@
     ],
     "causes": "It can develop gradually, sometimes after the shoulder has been kept still for a time. The exact cause is not always clear.",
     "worse": "As movement becomes limited, reaching in different directions can become difficult.",
-    "recovery": "Recovery can take time and varies. A healthcare professional can assess stiffness and discuss suitable care.",
     "references": [
       "aaos-frozen",
       "mayo-shoulder"
@@ -285,6 +306,9 @@
     ],
     "warningSigns": [
       "Seek assessment if movement is becoming very limited, symptoms are worsening, or pain is affecting sleep and daily activities."
+    ],
+    "recoveryResourceIds": [
+      "recovery-frozen-shoulder"
     ]
   },
   {
@@ -299,7 +323,6 @@
     ],
     "causes": "Fractures can follow a fall or direct impact. Imaging and clinical assessment may be needed to confirm one.",
     "worse": "Using or moving the injured arm may be painful.",
-    "recovery": "A suspected fracture needs medical assessment. Recovery depends on the bone and type of injury.",
     "references": [
       "nhs-collarbone",
       "mayo-shoulder"
@@ -309,6 +332,9 @@
     ],
     "warningSigns": [
       "Get urgent medical help after an injury with severe pain, rapid swelling, a changed shoulder shape, exposed bone, or inability to use the arm. Trouble breathing or chest pain is an emergency."
+    ],
+    "recoveryResourceIds": [
+      "recovery-shoulder-fracture"
     ]
   },
   {
@@ -323,7 +349,6 @@
     ],
     "causes": "It can occur with sudden effort, lifting, or repeated use.",
     "worse": "Using the affected muscle may increase discomfort.",
-    "recovery": "Symptoms vary. Seek advice if pain is severe, not improving, or affecting normal activities.",
     "references": [
       "mayo-shoulder",
       "nhs-shoulder"
@@ -333,6 +358,9 @@
     ],
     "warningSigns": [
       "Seek urgent assessment after a significant injury, or for severe pain, major swelling, inability to move the arm, or new numbness."
+    ],
+    "recoveryResourceIds": [
+      "recovery-muscle-strain"
     ]
   },
   {
@@ -347,7 +375,6 @@
     ],
     "causes": "It often follows a fall, collision, or sudden force.",
     "worse": "Movement or pressure on the injured area may be uncomfortable.",
-    "recovery": "Severity varies. A clinician can assess significant injuries and exclude a fracture or dislocation.",
     "references": [
       "mayo-shoulder",
       "nhs-shoulder"
@@ -357,6 +384,9 @@
     ],
     "warningSigns": [
       "Get urgent assessment after a significant injury, especially with deformity, sudden swelling, severe pain, inability to move the arm, or loss of feeling."
+    ],
+    "recoveryResourceIds": [
+      "recovery-shoulder-sprain"
     ]
   }
 ]

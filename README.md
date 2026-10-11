@@ -32,9 +32,13 @@ The included GitHub Actions workflow builds and publishes the web app from `main
 lib/main.dart             Flutter screens, navigation, and matching engine
 assets/data/               Source-of-truth JSON records
   symptoms.json            Controlled searchable/filterable symptom choices
-  conditions.json          Plain-language condition information
+  conditions.json          Plain-language condition information and resource links
   matches.json             One row per symptom-condition link and its weight
   references.json          Reference metadata shown on condition pages
+  recovery_resources.json  Structured recovery summaries linked to conditions
+  videos.json              Curated video metadata, links, and review records
+  temporary_pain_options.json Source-linked temporary comfort information
+assets/fonts/               Bundled Source Sans 3 font files and SIL OFL license
 android/ ios/ web/         Flutter platform projects
 macos/ windows/ linux/     Flutter desktop platform projects
 .github/workflows/         GitHub Pages release workflow
@@ -47,3 +51,15 @@ The score is the sum of configured weights for selected symptom filters. It only
 The Urgent Signs filter displays an emergency or prompt-care notice above the condition list when selected. The list cannot cover every emergency or every cause of shoulder pain. The current emergency message uses 911 and should be localized for the intended audience.
 
 There are no accounts, analytics, treatment plans, machine learning, or server-side user records. Source links open through the platform browser. Runtime data is bundled with the app.
+
+## Video resources
+
+Video entries are managed in `assets/data/videos.json`. Add a listing only after checking the publisher, video identity, and relevance. `sourceVerified` and `relevanceChecked` are separate from `medicalReviewStatus`; the app does not claim medical review unless that status is explicitly recorded. The current listings have not been medically reviewed for this app, and captions have not been verified. No videos are embedded or loaded automatically; users open the publisher page themselves.
+
+Exercise videos require an explicit `clinician_approved` safety review and condition-specific approval IDs. They are hidden while urgent signs are selected and cannot appear for a condition unless that condition has been approved in the video record. No exercise demonstrations are currently listed. Keep written precautions alongside every resource, and periodically recheck links and content.
+
+## Temporary pain relief
+
+General, source-linked comfort information is managed in `assets/data/temporary_pain_options.json`. Each option lists its applicable condition IDs, precautions, references, and source/content verification status. The app does not recommend a specific medicine or dose. Routine options are withheld while urgent signs are selected and are only linked to the non-urgent conditions listed in the data. This content has not been medically reviewed for this app; a qualified clinician should review it before public use.
+
+The interface uses locally bundled Source Sans 3 files under the SIL Open Font License; see `assets/fonts/OFL.txt`.
